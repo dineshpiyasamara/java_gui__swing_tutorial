@@ -9,9 +9,9 @@ Java Swing is a popular Java library for creating graphical user interfaces (GUI
 - Event Handling
 - Text Fields
 - Text Area
-- Checkbox and Combobox
+- Checkbox
 - Radio Buttons
-- Listbox and Dropdown menu
+- Listbox and Combobox
 - Layouts
 - Panels
 - Menu Bar
